@@ -1,7 +1,7 @@
 ---
 title: "Mi ruta de aprendizaje"
 date: 2022-04-25
-description: 'Te voy a dontar mi travesía por Launch- X de Innovacción Virtual'
+description: 'Te voy a contar mi travesía por Launch- X de Innovacción Virtual'
 ---
 
 Es un gusto para mi el poder contarles todo lo que he aprendido a lo largo de esta travesía. Ha sido un viaje de mucho enriquecimiento, y aprendizaje, con ciertas dificultades
