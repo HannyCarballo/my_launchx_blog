@@ -21,4 +21,4 @@ Las buenas prácticas de un desarrollador de software serían:
 
 ---
 
-Ahorita me encuentro en segundo semestre de ingeniería en compuntación, y me llena de emoción mi carrera, se que elegí la opción correcta. En un futuro, cuando sea desarrolladora de software sé que haré lo que me apasiona. Todavía falta un gran camino por recorrer, pero espero aprender mucho a lo largo de esta oportunidad que ofrece innovacción virtual, y también espero aprender mucho en mi carrera. No se trata del destino, sino del viaje  :)
+Ahorita me encuentro en segundo semestre de ingeniería en computación, y me llena de emoción mi carrera, se que elegí la opción correcta. En un futuro, cuando sea desarrolladora de software sé que haré lo que me apasiona. Todavía falta un gran camino por recorrer, pero espero aprender mucho a lo largo de esta oportunidad que ofrece innovacción virtual, y también espero aprender mucho en mi carrera. No se trata del destino, sino del viaje  :)
