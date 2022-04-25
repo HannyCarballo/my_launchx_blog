@@ -1,7 +1,27 @@
 ---
 title: "La cultura de un profesional de software"
 date: 2022-04-15T18:16:21-06:00
-description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
+description: '!Hola! este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
-Hey!
+Desde mi punto de vista, un profesional de software necesita tener una amplia gama de valores, tales como: 
+1. Honestidad. Debemos ser honestos con nuestro trabajo, no cometer fraude o tratar de robar el trabajo de los demás haciendolo pasar por propio. 
+2. Respeto. Hay que respetar a todos nuestros compañeros de trabajo, para que de esta forma se cree un ambiente sano entre la organización. También es importante el respeto hacía uno mismo, y cuando algo nos haga sentir incómodos, siempre podemos poner límites y expresar nuestras emociones.
+3. Compañerismo. Es importante ayudar a los compañeros, ya que cuando las personas se ayudan unas a otras, todos tenemos la oportunidad de crecer como humanos. También, cuando tengamos duda en algo,  hay que pedir ayuda. 
+4. Tolerancia. Hay que ser tolerantes, no todos pensamos igual o vamos al mismo ritmo de trabajo. Un punto importante aquí es la comunicación, ya que ayudará a aclarar muchas cosas o a comunicar ciertos puntos de diferencia entre las personas.
+5. Amor. Este es un valor muy importante, va de la mano con muchos valores. Cuando uno hace las cosas por pasión, se nota. Amar nuestro trabajo es algo muy bonito, ya que tenemos la oportunidad de hacer día con día algo que nos llama la atención y nos llena de vida.
+6. Solidaridad. Es importante comprender a todos los miembros del equipo (en dado caso de que se trabaje en equipo), y ayudarnos mutuamente. Yo driría que este valor va de la mano con el compañerísmo, y también es importante para crecer como personas.
+
+---
+
+Las buenas prácticas de un desarrollador de software serían:
+1. Ser honesto con el trabajo realizado, no plagios. Siempre se puede pedir ayuda, cuando la necesitemos.
+2. Conocer nuestro ambiente de trabajo y nuestras herramientas.
+3. Hacer el trabajo extraordinariamente bien. Muchas veces las personas se sienten presionadas o ansiosas, y esto está bien, porque somos humanos, pero para tratar de reducir estas situaciones es importante ser constantes en el trabajo. Opino que es preferible trabajar bien a trabajar mucho, en muchas ocasiones no es necesario dedicarle horas a una sola cosa, es importante ser disciplinado y dividir la tarea en minis tareas. Una cosa que me ha ayudado es meditar, ya que hay estudios que comprueban que existe algo llamado "neuroplasticidad", que hace que se modifiquen ciertas zonas del cerebro, aumenta la zona de la atención, mientras que reduce las zonas del estrés y la ansiedad.
+
+---
+
+Ahorita me encuentro en segundo semestre de ingeniería en compuntación, y me llena de emoción mi carrera, se que elegí la opción correcta. En un futuro, cuando sea desarrolladora de software sé que haré lo que me apasiona. Todavía falta un gran camino por recorrer, pero espero aprender mucho a lo la oportunidad que ofrece innovaccion virtual, y también espero aprender mucho en mi carrera. No se trata del destino, sino del viaje  :)
+
+"Do it now. Sometimes later becomes never"
+Saludos. 
