@@ -7,7 +7,7 @@ menu:
 
 ## ¿Quién soy?
 
-Hola, aquí vas a leer un poco sobre mi <img width="70" alt="image" src="https://media4.giphy.com/media/1n98C6J1I3vy31q9Bl/giphy.gif?cid=ecf05e47ujhmnvdqp7eqn2ubf6h0yvhi0ualxgwlc3jbbkp0&rid=giphy.gif&ct=s">
+Hola, aquí vas a leer un poco sobre mi <img width="40" alt="image" src="https://media4.giphy.com/media/1n98C6J1I3vy31q9Bl/giphy.gif?cid=ecf05e47ujhmnvdqp7eqn2ubf6h0yvhi0ualxgwlc3jbbkp0&rid=giphy.gif&ct=s">
 
 > You only fail 
 > when you stop 
