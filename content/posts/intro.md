@@ -10,6 +10,9 @@ Desde mi punto de vista, un profesional de software necesita tener una amplia ga
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/89166148/170618460-456294a0-02b3-4342-afbf-6c8c5a56661f.png">
 </p>
 - Respeto. Hay que respetar a todos nuestros compañeros de trabajo, para que de esta forma se cree un ambiente sano entre la organización. También es importante el respeto hacía uno mismo, y cuando algo nos haga sentir incómodos, siempre podemos poner límites y expresar nuestras emociones.
+<p align="center">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/89166148/170618460-456294a0-02b3-4342-afbf-6c8c5a56661f.png">
+</p>
 - Compañerismo. Es importante ayudar a los compañeros, ya que cuando las personas se ayudan unas a otras, todos tenemos la oportunidad de crecer como humanos. También, cuando tengamos duda en algo,  hay que pedir ayuda. 
 - Tolerancia. Hay que ser tolerantes, no todos pensamos igual o vamos al mismo ritmo de trabajo. Un punto importante aquí es la comunicación, ya que ayudará a aclarar muchas cosas o a comunicar ciertos puntos de diferencia entre las personas.
 - Amor. Este es un valor muy importante, va de la mano con muchos valores. Cuando uno hace las cosas por pasión, se nota. Amar nuestro trabajo es algo muy bonito, ya que tenemos la oportunidad de hacer día con día algo que nos llama la atención y nos llena de vida.
