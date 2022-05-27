@@ -7,7 +7,7 @@ description: '!Hola! este es mi primer post de la travesía en la Misión de Bac
 Desde mi punto de vista, un profesional de software necesita tener una amplia gama de valores, tales como: 
 - Honestidad. Debemos ser honestos con nuestro trabajo, no cometer fraude o tratar de robar el trabajo de los demás haciendolo pasar por propio. 
 <p align="center">
-<img width="60" alt="image" src="https://user-images.githubusercontent.com/89166148/170618460-456294a0-02b3-4342-afbf-6c8c5a56661f.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/89166148/170618460-456294a0-02b3-4342-afbf-6c8c5a56661f.png">
 </p>
 - Respeto. Hay que respetar a todos nuestros compañeros de trabajo, para que de esta forma se cree un ambiente sano entre la organización. También es importante el respeto hacía uno mismo, y cuando algo nos haga sentir incómodos, siempre podemos poner límites y expresar nuestras emociones.
 - Compañerismo. Es importante ayudar a los compañeros, ya que cuando las personas se ayudan unas a otras, todos tenemos la oportunidad de crecer como humanos. También, cuando tengamos duda en algo,  hay que pedir ayuda. 
